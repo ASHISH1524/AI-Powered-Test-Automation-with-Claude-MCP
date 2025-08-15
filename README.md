@@ -3,6 +3,7 @@ Demonstrating Zero-Code Test Automation using Claude AI Agent with Model Context
 
 🎯 Project Overview
 This repository showcases a revolutionary approach to test automation using AI agents instead of traditional scripting frameworks. By leveraging Claude AI with Model Context Protocol (MCP) integration, I've achieved fully autonomous test execution without writing a single line of automation code.
+
 🚀 What's Demonstrated
 
 AI-Driven Testing: Complete test automation using natural language instructions
@@ -29,6 +30,7 @@ Target Application: [E-commerce]
 Approach: No-code AI automation
 
 ⚡ Key Benefits Demonstrated
+
 Traditional Automation vs AI-Powered Testing
 Traditional ApproachAI-Powered ApproachManual script writingNatural language instructionsConstant maintenanceSelf-adapting to changesFixed locator strategiesDynamic element recognitionTechnical expertise requiredAccessible to non-technical usersTime-intensive setupRapid deployment
 Impact Areas
